@@ -1,0 +1,19 @@
+<svg width="500" height="260" viewBox="0 0 500 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="500" y2="260" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#21192C"/><stop offset="1" stop-color="#141B2B"/>
+ </linearGradient>
+</defs>
+<rect x="1" y="1" width="498" height="258" rx="22" fill="url(#g)" stroke="#F58AB7" stroke-opacity=".38"/>
+<circle cx="405" cy="67" r="44" fill="#F58AB7" fill-opacity=".12"/>
+<circle cx="405" cy="67" r="30" fill="#F58AB7" fill-opacity=".10"/>
+<path d="M376 91c10-15 47-15 58 0" stroke="#F8C5D9" stroke-width="3" stroke-linecap="round"/>
+<circle cx="392" cy="58" r="4" fill="#F8C5D9"/><circle cx="420" cy="58" r="4" fill="#F8C5D9"/>
+<path d="M396 76c8 6 14 6 22 0" stroke="#F8C5D9" stroke-width="2.5" stroke-linecap="round"/>
+<text x="34" y="56" fill="#F58AB7" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">a little about me ✦</text>
+<text x="34" y="92" fill="#E8EEF8" font-family="Arial, Helvetica, sans-serif" font-size="16">💻 desenvolvimento web</text>
+<text x="34" y="124" fill="#E8EEF8" font-family="Arial, Helvetica, sans-serif" font-size="16">🎨 interfaces &amp; UI/UX</text>
+<text x="34" y="156" fill="#E8EEF8" font-family="Arial, Helvetica, sans-serif" font-size="16">🌱 aprendizado constante</text>
+<text x="34" y="188" fill="#E8EEF8" font-family="Arial, Helvetica, sans-serif" font-size="16">✨ projetos com identidade</text>
+<text x="34" y="224" fill="#9FB5D2" font-family="Arial, Helvetica, sans-serif" font-size="13">criando, testando e evoluindo um projeto de cada vez.</text>
+</svg>
